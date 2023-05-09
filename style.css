@@ -24,3 +24,25 @@ text-align: center;
 
 
 }
+
+
+.artigo {
+
+    background: rgb(43, 43, 48);
+    border: 1px solid;    
+    text-align: center;
+    width: 50%;    
+    height: 600px;
+   
+
+}
+
+.sessao {
+
+    background: rgb(137, 137, 141);
+    border: 1px solid;    
+    text-align: center; 
+    height: 500px;
+
+
+}
